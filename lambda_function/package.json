@@ -1,0 +1,10 @@
+{
+    "name": "lambda-contact",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+      "aws-sdk": "^2.1420.0", 
+      "uuid": "^9.0.0"
+    }
+  }
